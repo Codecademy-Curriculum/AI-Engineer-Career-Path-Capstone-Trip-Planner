@@ -1,6 +1,6 @@
 # Trip Planner Capstone (Streamlit)
 
-A consumer-style “fun” capstone project for an AI Engineer career path: a trip planner app that uses an LLM agent + tool-calling to build a multi-day itinerary for any city, pulls live points-of-interest (POIs) from OpenStreetMap, optionally grounds suggestions with Wikivoyage snippets (RAG), and includes a lightweight feedback loop that improves results over time.
+AI Engineer career path: a trip planner app that uses an LLM agent + tool-calling to build a multi-day itinerary for any city, pulls live points-of-interest (POIs) from OpenStreetMap, optionally grounds suggestions with Wikivoyage snippets (RAG), and includes a lightweight feedback loop that improves results over time.
 
 ---
 
